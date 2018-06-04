@@ -7,5 +7,6 @@ sap.ui.define([
 	//pass 
 	// this is a branch test
 	// this is a new branch called master_IC
+	// test view 
 	});
 });
